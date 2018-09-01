@@ -1,0 +1,3 @@
+author = Classic_Tim
+version = 0.9
+displayName = Dirt Wand - Place Dirt Fast
